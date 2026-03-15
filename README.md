@@ -29,6 +29,6 @@ python TextBasedGame.py
 ```
 
 ## Author
-Anthony Bowser  
+Anthony Bowser Jr  
 Computer Science Student  
 Southern New Hampshire University
