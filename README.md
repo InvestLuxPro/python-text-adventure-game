@@ -23,8 +23,11 @@ This project is a text-based adventure game developed in Python as part of cours
 1. Download the file
 2. Run in Python
 
-```python
+
+```bash
 python TextBasedGame.py
+```
+
 ## Author
 Anthony Bowser  
 Computer Science Student  
