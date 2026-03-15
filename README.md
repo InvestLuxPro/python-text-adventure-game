@@ -1,4 +1,8 @@
 # Python Text Adventure Game
+## Game Screenshot
+
+![Gameplay Screenshot](image_2026-03-15_163551219.png)
+
 A command-line adventure game where players navigate rooms, collect items, and avoid the villain to win.
 This project is a text-based adventure game developed in Python as part of coursework for the Computer Science program at Southern New Hampshire University.
 
