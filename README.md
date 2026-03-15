@@ -53,3 +53,6 @@ python TextBasedGame.py
 Anthony Bowser Jr  
 Computer Science Student  
 Southern New Hampshire University
+
+## License
+This project is for educational purposes as part of coursework at Southern New Hampshire University.
