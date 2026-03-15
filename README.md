@@ -12,6 +12,27 @@ This project is a text-based adventure game developed in Python as part of cours
 - Win/Lose conditions
 - Input-based gameplay
 
+## Game Commands
+- go North / go South / go East / go West – move between rooms
+- get [item] – pick up an item
+- inventory – view collected items
+
+## Project Structure
+python-text-adventure-game/
+│
+├── TextBasedGame.py   # Main game logic
+├── README.md          # Project documentation
+└── gameplay-screenshot.png  # Example gameplay
+
+## Learning Objectives
+This project demonstrates:
+
+- Python dictionaries for game state
+- Control flow and conditional logic
+- User input handling
+- Game loop structure
+- Basic game design principles
+
 ## Technologies Used
 - Python
 - Control structures
