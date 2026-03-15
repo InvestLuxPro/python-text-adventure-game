@@ -20,15 +20,14 @@ This project is a text-based adventure game developed in Python as part of cours
 
 ## How to Run
 
-1. Download the file
-2. Run in Python
-
+1. Download the file  
+2. Run in Python  
 
 ```bash
 python TextBasedGame.py
 ```
 
 ## Author
-Anthony Bowser Jr  
+Anthony Bowser  
 Computer Science Student  
 Southern New Hampshire University
