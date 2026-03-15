@@ -1,2 +1,23 @@
-# python-text-adventure-game
-Text-based adventure game built in Python for SNHU Computer Science coursework.
+# Python Text Adventure Game
+
+This project is a text-based adventure game developed in Python as part of coursework for the Computer Science program at Southern New Hampshire University.
+
+## Features
+- Room navigation system
+- Item collection
+- Win/Lose conditions
+- Input-based gameplay
+
+## Technologies Used
+- Python
+- Control structures
+- Dictionaries
+- Functions
+
+## How to Run
+
+1. Download the file
+2. Run in Python
+
+```python
+python TextBasedGame.py
