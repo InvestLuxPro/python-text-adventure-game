@@ -27,7 +27,6 @@ This project is a text-based adventure game developed in Python as part of cours
 python TextBasedGame.py
 
 ## Author
-Anthony Bowser
-
+Anthony Bowser  
 Computer Science Student  
 Southern New Hampshire University
