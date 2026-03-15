@@ -18,11 +18,12 @@ This project is a text-based adventure game developed in Python as part of cours
 - inventory – view collected items
 
 ## Project Structure
+```text
 python-text-adventure-game/
-│
-├── TextBasedGame.py   # Main game logic
-├── README.md          # Project documentation
-└── gameplay-screenshot.png  # Example gameplay
+├── TextBasedGame.py          # Main game logic
+├── README.md                 # Project documentation
+└── gameplay-screenshot.png   # Example gameplay
+```
 
 ## Learning Objectives
 This project demonstrates:
