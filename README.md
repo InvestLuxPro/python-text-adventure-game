@@ -1,5 +1,5 @@
 # Python Text Adventure Game
-
+A command-line adventure game where players navigate rooms, collect items, and avoid the villain to win.
 This project is a text-based adventure game developed in Python as part of coursework for the Computer Science program at Southern New Hampshire University.
 
 ## Features
@@ -21,3 +21,9 @@ This project is a text-based adventure game developed in Python as part of cours
 
 ```python
 python TextBasedGame.py
+
+## Author
+Anthony Bowser
+
+Computer Science Student  
+Southern New Hampshire University
